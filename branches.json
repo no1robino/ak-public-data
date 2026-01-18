@@ -9,6 +9,7 @@
             "email": "",
             "phone": "+66 2 108 5522",
             "website": "https://akalikoths.com/",
+            "show_website": true,
             "coordinates": "14.0063974,100.6832025",
             "google_maps": "https://www.google.com/maps?ftid=0x311d7ef884e0a015:0x684d3d1ff81417d7"
         },
