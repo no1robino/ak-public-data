@@ -22,6 +22,7 @@
             "email": "info@akaliko.global",
             "phone": "",
             "website": "https://www.akaliko.global/",
+            "show_website": false,
             "coordinates": "13.9814585,100.6848466",
             "google_maps": "https://www.google.com/maps?ftid=0x311d7f0055a1dfa1:0xfc10d007facb5681"
         },
@@ -34,6 +35,7 @@
             "email": "shawn@boretechsolutions.ca",
             "phone": "+1 604 743 0215 / +1 604 855 5521",
             "website": "https://boretechsolutions.ca/",
+            "show_website": true,
             "coordinates": "49.0503441,-122.3775781",
             "google_maps": "https://www.google.com/maps?ftid=0x5485cb2649e1e3e3:0x79e3947c53db1083"
         },
@@ -154,6 +156,7 @@
             "email": "evert.b@congoreman.com",
             "phone": "+243 999 116 958",
             "website": "https://congoreman.com/",
+            "show_website": true,
             "coordinates": "-10.717022545573037, 25.466196868063157",
             "google_maps": ""
         },
