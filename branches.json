@@ -1,6 +1,6 @@
 [
     {
-        "slug": "akaliko-ths",
+        "Slug": "akaliko-ths",
         "name": "Akaliko THS",
         "location": "Pathum Thani, Thailand",
         "address": "51/38 Soi Usaha 3, Rangsit-Nakornnayok Rd, Bueng Yitho, Thanyaburi, Pathum Thani 12130, Thailand",
@@ -13,7 +13,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x311d7ef884e0a015:0x684d3d1ff81417d7"
     },
     {
-        "slug": "akaliko-global-sales-office",
+        "Slug": "akaliko-global-sales-office",
         "name": "Akaliko Global Sales Office",
         "location": "Pathum Thani, Thailand",
         "address": "70/24 Lat Sawai, Lam Luk Ka District, Pathum Thani 12120",
@@ -26,7 +26,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x311d7f0055a1dfa1:0xfc10d007facb5681"
     },
     {
-        "slug": "bore-tech-solutions-manufacturing-ltd",
+        "Slug": "bore-tech-solutions-manufacturing-ltd",
         "name": "Bore-Tech Solutions & Manufacturing Ltd.",
         "location": "Abbotsford, Canada",
         "address": "Unit 8, 30528 Great Northern Ave, Abbotsford, BC V2T 6H4, Canada",
@@ -39,7 +39,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x5485cb2649e1e3e3:0x79e3947c53db1083"
     },
     {
-        "slug": "rockmac-power-motive-llc",
+        "Slug": "rockmac-power-motive-llc",
         "name": "Rockmac Power Motive, LLC",
         "location": "Prineville, United States",
         "address": "1555 NE 3rd St., B4-221, Prineville, OR 97754, USA",
@@ -51,7 +51,7 @@
         "google_maps": ""
     },
     {
-        "slug": "akaliko-mongolia-llc",
+        "Slug": "akaliko-mongolia-llc",
         "name": "Akaliko Mongolia LLC",
         "location": "Ulaanbaatar, Mongolia",
         "address": "Teeverchdiin Street, Hera Industrial Park, 20th Khoroo, Songinokhairkhan District, Ulaanbaatar 18131, Mongolia",
@@ -63,7 +63,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x5d96ed12a27fbea7:0xd8af7d911fc48305"
     },
     {
-        "slug": "rockmac-inc",
+        "Slug": "rockmac-inc",
         "name": "Rockmac Inc.",
         "location": "Watertown, United States",
         "address": "25 First Avenue SW, Suite A, Watertown, SD 57201, USA",
@@ -75,7 +75,7 @@
         "google_maps": ""
     },
     {
-        "slug": "akaliko-intercontinental-turkey",
+        "Slug": "akaliko-intercontinental-turkey",
         "name": "Akaliko Intercontinental Makine Dış Ticaret Anonim Şirketi",
         "location": "Ankara, Turkey",
         "address": "Mustafa Kemal Mah. 2079 Cad. No:2/B İç Kapı No:38, Çankaya, Ankara, Turkey",
@@ -87,7 +87,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x14d33701727309ef:0x7c0dd615a1ba47f5"
     },
     {
-        "slug": "akaliko-asset-solutions-mongolia-llc",
+        "Slug": "akaliko-asset-solutions-mongolia-llc",
         "name": "Akaliko Asset Solutions Mongolia LLC",
         "location": "Omnogobi, Mongolia",
         "address": "4th Bag, 4 km west of Tsogtsetsii Center, Tsogtsetsii Soum, Ömnögovi Province, Mongolia",
@@ -99,7 +99,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x8422b168c262b21:0x287e76b03f917eb4"
     },
     {
-        "slug": "akaliko-kazakhstan-llp",
+        "Slug": "akaliko-kazakhstan-llp",
         "name": "Akaliko Kazakhstan LLP",
         "location": "Karaganda, Kazakhstan",
         "address": "Bukhar-Jyrau Avenue 49/6, Office 410a, Karaganda, Kazakhstan",
@@ -111,7 +111,7 @@
         "google_maps": ""
     },
     {
-        "slug": "akaliko-llc",
+        "Slug": "akaliko-llc",
         "name": "Akaliko LLC",
         "location": "Tashkent, Uzbekistan",
         "address": "Ahmad Donish 20A, Yunusabad District, Tashkent 100180, Uzbekistan",
@@ -123,7 +123,7 @@
         "google_maps": ""
     },
     {
-        "slug": "akaliko-guinea-sarlu",
+        "Slug": "akaliko-guinea-sarlu",
         "name": "Akaliko Guinea Sarlu",
         "location": "Conakry, Guinea",
         "address": "Rue KA 022, Kaloum–Boulbinet, BP 4011, Conakry, République de Guinée",
@@ -135,7 +135,7 @@
         "google_maps": ""
     },
     {
-        "slug": "akaliko-burkina-faso-sarl",
+        "Slug": "akaliko-burkina-faso-sarl",
         "name": "Akaliko Burkina Faso SARL",
         "location": "Ouagadougou, Burkina Faso",
         "address": "Secteur 15, Zone d´Activités Diverses, 259 Voie B, Zone d´Activités Diverses, Ouagadougou",
@@ -147,7 +147,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0xe2ebd16026af461:0x5abd05406b58004d"
     },
     {
-        "slug": "congo-remanufacturing-services",
+        "Slug": "congo-remanufacturing-services",
         "name": "Congo Remanufacturing Services",
         "location": "Kolwezi, Democratic Republic of Congo",
         "address": "Avenue Mwelwa 626, Quartier Jolie Site, Kolwezi, DRC",
@@ -160,7 +160,7 @@
         "google_maps": ""
     },
     {
-        "slug": "akaliko-png-ltd",
+        "Slug": "akaliko-png-ltd",
         "name": "Akaliko PNG Ltd",
         "location": "Port Moresby, Papua New Guinea",
         "address": "111 Napanapa Road, Motukea, National Capital District, Papua New Guinea",
@@ -172,7 +172,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x69022fd0d1c6ca41:0x8b53b20fb6487319"
     },
     {
-        "slug": "akaliko-south-africa-pty-ltd",
+        "Slug": "akaliko-south-africa-pty-ltd",
         "name": "Akaliko South Africa Pty Ltd",
         "location": "Meyersdal, South Africa",
         "address": "Sable Industrial Park Unit #4, 13 Pomona Road, Jet Park, Glen Marais, 1609, South Africa",
@@ -184,7 +184,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x1e9515175bb78d99:0x9f657db76f204600"
     },
     {
-        "slug": "akaliko-zambia-ltd",
+        "Slug": "akaliko-zambia-ltd",
         "name": "Akaliko Zambia Ltd",
         "location": "Ndola, Zambia",
         "address": "Stand 1716, Nakambala Road, Skyways, Industrial Area, Ndola, Zambia",
@@ -196,7 +196,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x196cb3006322167f:0x14684483831644df"
     },
     {
-        "slug": "akaliko-botswana-proprietary-ltd",
+        "Slug": "akaliko-botswana-proprietary-ltd",
         "name": "Akaliko Botswana Proprietary Ltd",
         "location": "Gaborone, Botswana",
         "address": "Plot 54374 Unit 3 Block B, Grand Union Buildings, CBD, Gaborone, Botswana",
@@ -208,7 +208,7 @@
         "google_maps": ""
     },
     {
-        "slug": "akaliko-mauritius-ltd",
+        "Slug": "akaliko-mauritius-ltd",
         "name": "Akaliko Mauritius Ltd",
         "location": "Quatre Bornes, Mauritius",
         "address": "53 Duperré Avenue, Quatre Bornes, Mauritius",
@@ -220,7 +220,7 @@
         "google_maps": ""
     },
     {
-        "slug": "akaliko-tanzania-office-co-ltd",
+        "Slug": "akaliko-tanzania-office-co-ltd",
         "name": "Akaliko Tanzania Office Co., Ltd",
         "location": "Dar es Salaam, Tanzania",
         "address": "Mwanga Tower, 13th Floor (Right Wing), New Bagamoyo Rd, Makumbusho, Dar es Salaam, Tanzania",
@@ -232,7 +232,7 @@
         "google_maps": ""
     },
     {
-        "slug": "ariya-xiamen-mining-co-ltd",
+        "Slug": "ariya-xiamen-mining-co-ltd",
         "name": "Ariya (Xiamen) Mining Co., Ltd",
         "location": "Xiamen, China",
         "address": "Room 1007, No. 503 Gaolin Middle Road, Huli District, Xiamen, Fujian, China",
@@ -244,7 +244,7 @@
         "google_maps": ""
     },
     {
-        "slug": "ariya-nantong-mining-co-ltd",
+        "Slug": "ariya-nantong-mining-co-ltd",
         "name": "Ariya (Nantong) Mining Co., Ltd",
         "location": "Rugao, China",
         "address": "No. 5 Union Circuit, Jiuhua Town, Rugao, Jiangsu, China",
@@ -256,7 +256,7 @@
         "google_maps": ""
     },
     {
-        "slug": "ariya-quanzhou-mining-machinery-co-ltd",
+        "Slug": "ariya-quanzhou-mining-machinery-co-ltd",
         "name": "Ariya (Quanzhou) Mining Machinery Co., Ltd",
         "location": "Nan’an, China",
         "address": "No. 1 Jindong 9th Road, Xiamei Town, Nan’an, Fujian, China",
@@ -268,7 +268,7 @@
         "google_maps": ""
     },
     {
-        "slug": "ariya-xuzhou-mining-equipment-co-ltd",
+        "Slug": "ariya-xuzhou-mining-equipment-co-ltd",
         "name": "Ariya (Xuzhou) Mining Equipment Co., Ltd",
         "location": "Xuzhou, China",
         "address": "2nd Floor Gongyi Building, Xuzhou International Postal Exchange Bureau, Xuzhou City, Jiangsu Province, China",
@@ -280,7 +280,7 @@
         "google_maps": ""
     },
     {
-        "slug": "ariya-shandong-mining-equipment-co-ltd",
+        "Slug": "ariya-shandong-mining-equipment-co-ltd",
         "name": "Ariya (Shandong) Mining Equipment Co., Ltd",
         "location": "Rizhao, China",
         "address": "500 meters East of Wulian Railway Station, Rizhao, Shandong, China",
@@ -292,7 +292,7 @@
         "google_maps": ""
     },
     {
-        "slug": "pt-united-hydraulic-technology",
+        "Slug": "pt-united-hydraulic-technology",
         "name": "PT. United Hydraulic Technology",
         "location": "Balikpapan, Indonesia",
         "address": "Jl. AMD No.24 RT 46, Kelurahan Graha Indah (Km. 5), Balikpapan 76129, East Kalimantan, Indonesia",
@@ -304,7 +304,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x2df148fab03cda87:0x2aa9e3be21d8fea6"
     },
     {
-        "slug": "pt-united-hydraulic-technology-berau",
+        "Slug": "pt-united-hydraulic-technology-berau",
         "name": "PT. United Hydraulic Technology (Berau)",
         "location": "Berau, Indonesia",
         "address": "Jl. H.A.R.M. Ayoeb RT 13, Gunung Tabur District, Berau, East Kalimantan, Indonesia",
@@ -316,7 +316,7 @@
         "google_maps": "https://www.google.com/maps?ftid=0x320df568cdbeb705:0x1cac130344ba2ee2"
     },
     {
-        "slug": "akaliko-australia-pty-ltd",
+        "Slug": "akaliko-australia-pty-ltd",
         "name": "Akaliko Australia Pty Ltd",
         "location": "Edmonton, Australia",
         "address": "79 McDonald Cres, Bassendean WA 6054, Australia",
